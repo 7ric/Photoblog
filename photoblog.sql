@@ -1,9 +1,6 @@
--- MySQL dump 10.13  Distrib 5.1.63, for debian-linux-gnu (i486)
---
 -- Host: localhost    Database: photoblog
+-- User: pentesterlab Password: pentesterlab
 -- ------------------------------------------------------
--- Server version	5.1.63-0+squeeze1
-
 -- mysql -uuser -ppassword < photoblog.sql
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
